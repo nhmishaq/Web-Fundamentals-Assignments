@@ -1,0 +1,187 @@
+.wrapper{
+    width: 1000px;
+    height: 1000px;
+}
+.header img{
+    height: 60px;
+    width: 60px;
+    margin-right: 15px;
+}
+.header img, h1{
+    display: inline-block;
+}
+.header h1{
+    vertical-align: top;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: #515151;
+}
+.header h2{
+    background-color: #3b74a5;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    padding: 10px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+    word-spacing: 2.5px;
+}
+.leftPanel{
+    width: 300px;
+    height: 500px;
+}
+.resources{
+    width: 300px;
+    padding: 2px;
+    padding-left: 2px;
+    margin-top: -1px;
+}
+.resources p, .resources h3{
+    font-weight: bold;
+    font-family: sans-serif;
+    width: 250px;
+    background-color: #e5e5e5;
+}
+.resources h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+
+.resources p{
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.resources button{
+    display: block;
+    padding: 10px;
+    background-color: #4681b3;
+    color: white;
+    border-radius: 7px;
+    width: 250px;
+    font-size: 14px;
+}
+.resources button:first-child{
+    background-color: #4681b3;
+    padding: 50px;
+}
+.resources button:last-of-type{
+    background-color: #ef7d00;
+}
+#background img{
+    position: absolute;
+    top: 370px;
+    left: 10px;
+    height: 300px;
+    width: 250px;
+    margin-top: 20px;
+    border-top: 2px solid #b6b6b6;
+    padding-top: 20px;
+}
+
+#ninja img{
+    position: absolute;
+    top: 450px;
+    left: 75px;
+    height: 150px;
+    width: 100px;
+    margin-top: 20px;
+}
+#adButton{
+    position: absolute;
+    top: 620px;
+    left: 75px;
+    margin-top: 20px;
+}
+.ad{
+    height: 450px;
+    margin-top: 0px;
+}
+.ad p{
+    color: yellow;
+    position: absolute;
+    top: 420px;
+    left: 10px;
+    border: 3px solid purple;
+}
+.leftPanel, .pageBody{
+    display: inline-block;
+}
+.pagePathDisplay, .contactInfo{
+    display: inline-block;
+}
+.pagePathDisplay img{
+    height: 20px;
+    width: 20px;
+}
+.pagePathDisplay img, .pagePathDisplay p{
+    display: inline-block;
+}
+.contactInfo{
+    margin-left: 350px;
+    height: 35px;
+}
+.pagePathDisplay{
+    margin-right: 20px;
+    height: 30px;
+    padding: 5px;
+    vertical-align: top;
+}
+.contactInfo img{
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+}
+.contactInfo hours, .contactInfo phoneNumber, .contactInfo internationalNumber{
+    display: block;
+
+}
+.contactInfo phoneNumber{
+    color: #02bfdf;
+    font-size: 18px;
+    font-weight: bold;
+}
+.contactInfo img, .info{
+    display: inline-block;
+    vertical-align: middle;
+}
+.head{
+    position: absolute;
+    top: 105px;
+    left: 280px;
+    width: 728px;
+    height: 72px;
+    background-color: #e9e9e9;
+}
+h3{
+    color: #2668a0;
+}
+.description{
+    border-top: 2px solid #b8b8b8;
+    margin-top: 30px;
+}
+.description img{
+    height: 100px;
+    width: 300px;
+    margin-left: 200px;
+}
+.footer{
+    border-top: 4px solid #0085e0;
+    border-left: 4px solid #0085e0;
+    border-right: 4px solid #0085e0;
+}
+.big3{
+    width: 450px;
+    vertical-align: top;
+    padding: 10px;
+}
+.footer img{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.footer img, .big3{
+    display: inline-block;
+}

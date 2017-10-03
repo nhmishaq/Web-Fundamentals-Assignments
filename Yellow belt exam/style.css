@@ -1,0 +1,203 @@
+.wrapper{
+    background-color: #1f3037;
+    width: 1000px;
+}
+.header{
+
+}
+.header h1, .header img{
+    display: inline-block;
+    text-align: left;
+}
+.header h1{
+    align-content: left;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-left: 15px;
+}
+.header img{
+    margin-left: 550px;
+}
+.navbar ul{
+    width: 980px;
+    height: 45px;
+    padding: 5px;
+    background-color: #24353c;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 16px;
+    font-family: sans-serif;
+    margin: 0px;
+}
+.navbar ul li{
+    display: inline-block;
+    padding: 6px;
+    margin: 3px;
+    margin-left: 10px;
+    padding-left: 16px;
+    margin-right: 20px;
+    color: #9eafa4;
+    border-right: 1px solid #3e4f56;
+    text-align: left;
+}
+.navbar img{
+    width: 1000px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.leftSide{
+    margin-left: 20px;
+    background-color: #1f3037;
+    width: 220px;
+    vertical-align: top;
+}
+.leftSide, .description{
+    display: inline-block;
+}
+.searchBar h3{
+    color: #83a19e;
+    font-family: sans-serif;
+    font-weight: normal;
+    margin: 3px;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.searchBar input, .searchBar img{
+    display: inline-block;
+    margin: 5px;
+    margin-left: 20px;
+    vertical-align: top;
+}
+.searchBar input{
+    margin: 5px;
+    margin-top: 2px;
+    margin-left: 20px;
+    border: 2px solid black;
+    margin-right: 0px;
+    height: 14px;
+
+}
+.searchBar img{
+    margin: 5px;
+    margin-top: 2px;
+    border: 1px solid white;
+    margin-left: 0px;
+}
+.notesAreaLeft{
+    color: #96a89c;
+    border: 2px solid grey;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    overflow: scroll;
+}
+.notesAreaLeft h3{
+    background-color: #263b40;
+    margin-top: 0px;
+    border-bottom: 2px solid grey;
+    padding: 5px;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.notesAreaLeft h3 p{
+    border: 2px solid grey;
+}
+.notesAreaLeft p{
+    margin-top: 0px;
+}
+.randomNotes{
+    background-color: #273c3d;
+    color: white;
+    border: 2px solid grey;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    overflow: scroll;
+}
+.buschGardensImage{
+    border: 2px solid grey;    
+    display: block;
+    width: 201px;
+    padding: 0px;
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+    color: #b9f091;
+    font-family: sans-serif;
+    font-weight: normal;
+    margin: 10px;
+}
+p, h2{
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin: 10px;
+    overflow: scroll;
+}
+
+.description{
+    background-color: #273c3f;
+    color: white;
+    width: 740px;
+    height: 920px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin: 10px;
+    margin-bottom: 0px;
+    vertical-align: top;
+    margin-left: 5px;
+
+
+}
+.description p{
+    border-bottom-style: double;
+    padding: 15px;
+}
+
+.mainBody{
+    width: 440px;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.rightSide{
+    margin-top: 20px;
+    width: 200px;
+    margin-left: 50px;
+
+}
+.mainBody, .rightSide{
+    display: inline-block;
+}
+
+.notesAreaRight{
+    border: 1px solid #3e6462;
+    margin: 10px;
+    height: 170px;
+    width: 200px;
+    overflow: scroll;
+}
+.notesAreaRight h3{
+    border: 1px solid #3a605d;
+    width: 100px;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+}
+.notesAreaRight p{
+    border: none;
+    margin: 5px;
+}
+.pineTreeImage{
+    border: 1px solid white;
+    margin: 10px;
+    margin: 15px;
+}
+.footer{
+    background-color: #415651;
+    width: 1000px;
+    height: 30px;
+    border-top: 1px solid black;
+}

@@ -1,0 +1,22 @@
+.body{
+    width: 1000px;
+}
+button{
+    background-color: #4CAF50; 
+    border: 5px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.cat img{
+    display: block;
+    width: 300px;
+}
+.ninja img{
+    display: block;
+    width: 300px;
+}

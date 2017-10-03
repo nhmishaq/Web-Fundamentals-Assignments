@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Following these essential guidelines will help keep you safe
+    from the dreaded runners knee. Do these exercises prior to your run.">
+    <title>Essential Running Stretches to Prevent Runner's Knee</title>
+  </head>
+
+  <body>
+    <h1>Pre Run</h1>
+
+      <p> The following exercises fall under dynamic stretches. This is the best way to warm up your cold muscles
+        before intensive exertion.</p>
+
+      <ul>
+        <li>arm circles</li>
+        <li>chair squats</li>
+        <li>full 180 degree leg rotation and kick</li>
+      </ul>
+
+      <p>Watch this video to see the technique.</p>
+
+      <video src="prestretch.mp4" width="400" height="800" controls></video>
+
+      <p>We recommend the following reps per exercise. Feel free to adjust accordingly.</p>
+
+      <div id="table_of_exercises">
+      <table>
+        <thead>
+          <tr>
+            <th>Exercise</th>
+            <th>Number of Sets</th>
+            <th>Number of Reps</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <tdata>Arm Circles</tdata>
+            <tdata>2</tdata>
+            <tdata>15</tdata>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  <h2>Please take this survey</h2>
+
+
+<form>
+<p>Please take this survey to tell us what you think!</p>
+<label id="email">Email:</label>
+  <input type="text" id="email_address" name="email">
+
+  <p>Would you like to receive additional tips?</p>
+    <label for="yes">Yes</label>
+    <input type="radio" id="yes" name="yes" value="yes">
+
+    <label for="no">No thanks</label>
+    <input type="radio" id="no" name="no" value="no">
+
+    <p>What type of run are you training for?</p>
+    <label for="5k">5k</label>
+    <input type="checkbox" id="5k" name="run" value="5k">
+
+    <label for="10k">10k</label>
+    <input type="10k" id="10k" name="run" value="10k">
+
+    <label for="marathon">Marathon!</label>
+    <input type="checkbox" id="marathon" name="run" value="marathon">
+
+      <input type="submit" value="Click here to submit">
+</form>
+
+  </body>
+</html>

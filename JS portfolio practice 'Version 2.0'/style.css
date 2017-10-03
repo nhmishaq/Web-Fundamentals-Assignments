@@ -1,0 +1,194 @@
+.pageWrapper{
+    width: 1000px;
+}
+
+
+.title {
+    width: 1000px;
+    background-color: #f7f7f7;
+}
+.name{
+    font-family: "Comic Sans MS";
+    font-size: 32px;
+    font-weight: bold;
+}
+.motto{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: right;
+    width: 820px;
+}
+.name, .motto{
+    display: inline-block;
+}
+
+.body{
+    background-color: #443138;
+}
+.profilePicture{
+    width: 300px;
+}
+.profilePicture img{
+    width: 300px;
+    margin: 10px;
+    border: 3px solid #8a8a8b;
+}
+.aboutMe{
+    width: 650px;
+    margin-left: 20px;
+    background-color: #f3eef3;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.aboutMe h2{
+    background-color: #96959f;
+    color: white;
+    margin-top: 0px;
+    padding: 5px;
+}
+.aboutMe p{
+    padding: 5px;
+    margin-bottom: 45px;
+}
+
+.profilePicture, .aboutMe{
+    display: inline-block;
+}
+.projects{
+    width: 1000px;
+    height: 700px;
+    margin-left: 10px;
+}
+.laMode{
+    width: 300px;
+    padding: 10px;
+}
+.laMode h2{
+    widows: 300px;
+    background-color: #878593;
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+.laMode img{
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.laMode h3{
+    background-color: #878593;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 0px;
+    padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.technologyImages{
+    background-color: #e7dee7;
+    margin-top: 0px;
+}
+.technologyImages img{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+.familyContacts{
+    width: 300px;
+    padding: 10px;
+}
+.familyContacts h2{
+    widows: 300px;
+    background-color: #878593;
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+.familyContacts img{
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.familyContacts h3{
+    background-color: #878593;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 0px;
+    padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.technologyImages{
+    background-color: #e7dee7;
+    margin-top: 0px;
+}
+.technologyImages img{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+.fiveEleven{
+    width: 300px;
+    padding: 10px;
+}
+.fiveEleven h2{
+    widows: 300px;
+    background-color: #878593;
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+.fiveEleven img{
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.fiveEleven h3{
+    background-color: #878593;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 0px;
+    padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.technologyImages{
+    background-color: #e7dee7;
+    margin-top: 0px;
+}
+.technologyImages img{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+
+.laMode, .familyContacts, .fiveEleven{
+    display: inline-block;
+}
+
+.footer{
+    background-color: #f6f6f6;
+    width: 1000px;
+    text-align: center;
+}
+.footer img{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.footer p{
+    width: 70px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 2px;
+}
+email{
+    display: block;
+    margin: 10px;
+    padding: 5px;
+
+}

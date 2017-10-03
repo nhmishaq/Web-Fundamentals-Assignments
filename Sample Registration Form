@@ -1,0 +1,38 @@
+<form>
+  <h1>My Registration Form</h1>
+
+  <label for="first_name">First Name:</label>
+  <input type="text" id="first_name" name="first_name">
+
+  <label for="last_name">Last Name:</label>
+  <input type="text" id="last_name" name="last_name">
+
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email">
+
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password">
+
+  <label for="pw_confirm">PW Confirm:</label>
+  <input type="password" id="pw_confirm" name="password_confirmation">
+
+  <label for="birthday">Birthday:</label>
+  <input type="calendar" id="calendar" name="birthday">
+
+  <label for="male">Male</label>
+  <input type="radio" id="gender" value="male">
+
+  <label for="female">Female</label>
+  <input type="radio" id="gender" value="female">
+
+  <label for="other">Other</label>
+  <input type="radio" id="gender" value="other">
+
+  <p>A short description about yourself:</p>
+  <textarea name="description"></textarea>
+
+<p>Favorite Language</p>
+<label for="JavaScript"></label>
+<input type="checkbox" id="JavaScript" name="language" value="JavaScript">
+
+</form>
